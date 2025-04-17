@@ -1,0 +1,25 @@
+# DarkBy
+
+**DarkBy** é um script Python que realiza várias funcionalidades, como leitura de longitude e latitude, simulação de MS, e criação de banners personalizados. 
+
+## Funcionalidades
+
+- Função 4: Simula a velocidade de resposta (MS).
+- Função 5: Exibe longitude e latitude do dispositivo, e permite escanear outras coordenadas.
+- Função 6: Cria um banner vermelho com o nome escolhido.
+
+## Dependências
+
+O script requer as seguintes dependências para funcionar corretamente:
+
+- `requests`
+- `colorama`
+
+## Instalação
+
+1. Clone o repositório:
+
+```bash
+git clone https://github.com/seu-usuario/DarkBy.git
+
+
