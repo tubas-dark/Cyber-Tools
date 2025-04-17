@@ -8,7 +8,7 @@ pkg update && pkg upgrade -y
 
 pkg install python git -y
 
-git clone https://github.com/tubas-dark/Cyber-Tools/blob/main/README.md
+git clone https://github.com/tubas-dark/Cyber-Tools/
 
 cd DarkBy
 
